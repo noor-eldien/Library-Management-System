@@ -1,9 +1,3 @@
-/// 20236109_20236102_20236055
-/*
- * ==================================================================================================
- * NOTE: you will need to RENAME the "20236109_20236102_20236055.java"  file to  "LibraryGUI.java"
- * ==================================================================================================
- */
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
@@ -253,17 +247,6 @@ class LibraryUser
         }
     }
 
-//    public static LibraryUser findUserByID(String userID)
-//    {
-//        for (LibraryUser user : library.getUsers())
-//        {
-//            if (user.getUserID().equals(userID))
-//            {
-//                return user;
-//            }
-//        }
-//        return null;
-//    }
 }
 
 
