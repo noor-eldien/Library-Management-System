@@ -11,9 +11,7 @@ A Java GUI application that simulates a library management system with different
 - **GUI Interface:** Interactive forms for all operations  
 - **Inventory Tracking:** Maintains available quantities of each item  
 
-## Program Input/Output Examples  
-
-### System Operations  
+## System Operations  
 The program provides these GUI operations:  
 1. **Add Item**  
 2. **List Available Items**  
