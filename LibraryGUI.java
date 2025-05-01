@@ -470,10 +470,7 @@ public class LibraryGUI extends JFrame {
                     }
                 }
             }
-//            else
-//            {
-//                JOptionPane.showMessageDialog(this, "User not found", "Error", JOptionPane.ERROR_MESSAGE);
-//            }
+
         }
     }
 
